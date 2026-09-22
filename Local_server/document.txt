@@ -1,0 +1,10 @@
+1.uv init .
+2.uv add fastmcp 
+
+3.uv run fastmcp version
+  
+  write the code to generate mcp server 
+
+4.uv run fastmcp dev inspector main.py
+
+5.uv run fastmcp install claude-desktop main.py
